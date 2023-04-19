@@ -4,7 +4,7 @@ Individual homework number 2 on the GoIT platform
 ### Installation
 Clone this repository
 ```
-git clone https://github.com/S-Stepanov-1/GoIT_homework_01.git
+git clone https://github.com/S-Stepanov-1/GoIT_homework_02.git
 ```
 Install requirements
 ```
