@@ -1,5 +1,5 @@
-# GoIT_homework_01
-Individual homework number 1 on the GoIT platform
+# GoIT_homework_02
+Individual homework number 2 on the GoIT platform
 
 ### Installation
 Clone this repository
