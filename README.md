@@ -6,10 +6,6 @@ Clone this repository
 ```
 git clone https://github.com/S-Stepanov-1/GoIT_homework_02.git
 ```
-Install requirements
-```
-pip install -r requirements.txt
-```
 
 ### Description
 This program sorts the directory passed in as an argument; creates folders `archives`, `video`, `audio`, `documents`, `images` and `other_formats` and distributes files to them.
